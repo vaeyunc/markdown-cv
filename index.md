@@ -2,8 +2,8 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chen Yun
+
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -82,7 +82,10 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
+__Play Role__, normal people
+- hello
+- nihao
+- not anything
 
 <!-- ### Footer
 
